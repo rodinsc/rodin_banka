@@ -14,7 +14,7 @@ client_scripts {
 }
 
 files {
-	'client/html/UI.html',
+    'client/html/UI.html',
     'client/html/style.css',
     'client/html/media/font/Bariol_Regular.otf',
     'client/html/media/font/Vision-Black.otf',
