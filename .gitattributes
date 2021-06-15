@@ -1,4 +1,2 @@
-* linguist-vendored
 *.css linguist-detectable=false
 *.html linguist-detectable=false
-*.lua linguist-detectable=true
